@@ -76,22 +76,22 @@
                         <values>
                             <ti_name>IDE00008</ti_name>
                             <display_name>Версия ПО</display_name>
-                            <display_value>0330</display_value>
+                            <display_value>0809</display_value>
                         </values>
                         <values>
                             <ti_name>IDE00016</ti_name>
                             <display_name>Версия АО</display_name>
-                            <display_value>H25</display_value>
+                            <display_value>H57</display_value>
                         </values>
                         <values>
                             <ti_name>IDE00007</ti_name>
                             <display_name>Кат. номер VW/Audi</display_name>
-                            <display_value>3G5035820N </display_value>
+                            <display_value>3G5035820F </display_value>
                         </values>
                         <values>
                             <ti_name>IDE00012</ti_name>
                             <display_name>Кат. номер АО</display_name>
-                            <display_value>3G5035820N </display_value>
+                            <display_value>3G5035820  </display_value>
                         </values>
                         <values>
                             <ti_name>IDE00003</ti_name>
@@ -1331,7 +1331,7 @@
                             </values>
                             <values>
                                 <display_name>[LO]_mirror_link_country_code</display_name>
-                                <display_value>[VO]_EPE</display_value>
+                                <display_value>[VO]_EU</display_value>
                             </values>
                             <values>
                                 <display_name>[LO]_viwi_access_mode</display_name>
@@ -1803,19 +1803,19 @@
                             </values>
                             <values>
                                 <display_name>[LO]_FB_NAV_30</display_name>
-                                <display_value>[VO]_blocked</display_value>
+                                <display_value>[VO]_non_blocked</display_value>
                             </values>
                             <values>
                                 <display_name>[LO]_FB_NAV_29</display_name>
-                                <display_value>[VO]_blocked</display_value>
+                                <display_value>[VO]_non_blocked</display_value>
                             </values>
                             <values>
                                 <display_name>[LO]_FB_NAV_28</display_name>
-                                <display_value>[VO]_blocked</display_value>
+                                <display_value>[VO]_non_blocked</display_value>
                             </values>
                             <values>
                                 <display_name>[LO]_FB_NAV_27</display_name>
-                                <display_value>[VO]_blocked</display_value>
+                                <display_value>[VO]_non_blocked</display_value>
                             </values>
                             <values>
                                 <display_name>[LO]_FB_NAV_26</display_name>
@@ -1827,7 +1827,7 @@
                             </values>
                             <values>
                                 <display_name>[LO]_FB_NAV_24</display_name>
-                                <display_value>[VO]_blocked</display_value>
+                                <display_value>[VO]_non_blocked</display_value>
                             </values>
                             <values>
                                 <display_name>[LO]_FB_NAV_39</display_name>
@@ -1959,7 +1959,7 @@
                             </values>
                             <values>
                                 <display_name>[LO]_FB_MISC_7</display_name>
-                                <display_value>[VO]_blocked</display_value>
+                                <display_value>[VO]_non_blocked</display_value>
                             </values>
                             <values>
                                 <display_name>[LO]_FB_MISC_6</display_name>
@@ -2063,7 +2063,7 @@
                             </values>
                             <values>
                                 <display_name>[LO]_FB_MISC_29</display_name>
-                                <display_value>[VO]_blocked</display_value>
+                                <display_value>[VO]_non_blocked</display_value>
                             </values>
                             <values>
                                 <display_name>[LO]_FB_MISC_28</display_name>
@@ -2147,7 +2147,7 @@
                             </values>
                             <values>
                                 <display_name>[LO]_FB_MISC_40</display_name>
-                                <display_value>[VO]_blocked</display_value>
+                                <display_value>[VO]_non_blocked</display_value>
                             </values>
                             <values>
                                 <display_name>[LO]_FB_HELP_7</display_name>
@@ -2196,7 +2196,7 @@
                             <values>
                                 <ti_name>MAS00194</ti_name>
                                 <display_name>[LN]_Media_Country_Code</display_name>
-                                <display_value>UA</display_value>
+                                <display_value>DE</display_value>
                             </values>
                         </values>
                         <values>
@@ -2291,7 +2291,7 @@
                             <values>
                                 <ti_name>MAS00194</ti_name>
                                 <display_name>[LN]_Media_Country_Code</display_name>
-                                <display_value>UA</display_value>
+                                <display_value>DE</display_value>
                             </values>
                         </values>
                         <values>
@@ -3317,8 +3317,8 @@
                             </values>
                             <values>
                                 <display_name>[LO]_traffic_sign_recognition_0x21</display_name>
-                                <ti_value>MAS00319</ti_value>
-                                <display_value>[VN]_not_activated</display_value>
+                                <ti_value>MAS00318</ti_value>
+                                <display_value>[VN]_activated</display_value>
                             </values>
                             <values>
                                 <display_name>[LO]_weariness_rcognition_0x22_msg_bus</display_name>
@@ -4596,8 +4596,8 @@
                             </values>
                             <values>
                                 <display_name>[LO]_menu_display_road_sign_identification_over_threshold_high</display_name>
-                                <ti_value>MAS00319</ti_value>
-                                <display_value>[VN]_not_activated</display_value>
+                                <ti_value>MAS00318</ti_value>
+                                <display_value>[VN]_activated</display_value>
                             </values>
                             <values>
                                 <display_name>[LO]_menu_display_road_sign_identification_clamp_15_off</display_name>
@@ -4606,8 +4606,8 @@
                             </values>
                             <values>
                                 <display_name>[LO]_menu_display_road_sign_identification</display_name>
-                                <ti_value>MAS00319</ti_value>
-                                <display_value>[VN]_not_activated</display_value>
+                                <ti_value>MAS00318</ti_value>
+                                <display_value>[VN]_activated</display_value>
                             </values>
                             <values>
                                 <display_name>[LO]_menu_display_attention_identification_after_disclaimer</display_name>
@@ -7176,11 +7176,11 @@
                             <swap_state_functions_uds>
                                 <swap_state>swap_state_unlocked</swap_state>
                                 <swap_state_function>
-                                    <function_sid>70B00</function_sid>
+                                    <function_sid>70A00</function_sid>
                                     <status_byte>FF</status_byte>
                                 </swap_state_function>
                                 <swap_state_function>
-                                    <function_sid>70A00</function_sid>
+                                    <function_sid>70B00</function_sid>
                                     <status_byte>FF</status_byte>
                                 </swap_state_function>
                                 <swap_state_function>
@@ -7188,8 +7188,23 @@
                                     <status_byte>FF</status_byte>
                                 </swap_state_function>
                                 <swap_state_function>
-                                    <function_sid>70900</function_sid>
+                                    <function_sid>70500</function_sid>
                                     <status_byte>FF</status_byte>
+                                </swap_state_function>
+                                <swap_state_function>
+                                    <function_sid>40100</function_sid>
+                                    <status_byte>FF</status_byte>
+                                </swap_state_function>
+                                <swap_state_function>
+                                    <function_sid>71C00</function_sid>
+                                    <status_byte>FF</status_byte>
+                                </swap_state_function>
+                            </swap_state_functions_uds>
+                            <swap_state_functions_uds>
+                                <swap_state>swap_state_unlocked_inactive</swap_state>
+                                <swap_state_function>
+                                    <function_sid>70900</function_sid>
+                                    <status_byte>DF</status_byte>
                                 </swap_state_function>
                             </swap_state_functions_uds>
                         </swap_fod_status>
